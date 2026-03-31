@@ -1,2 +1,2 @@
-# analisis-funcional-sice
-Documento de analisis funcional realizado para una institucion privada para un sistema integral de control escolar
+# Analisis Funcional del Sistema de Control Escolar
+El proyecto consistio en el levantamiento de requerimientos funcionales y no funcionales para una institucion privada. Se necesitaba una aplicacion que integrara distintos departamentos (cobranza, promotoria, profesorado, control escolar, etc.) en una aplicacion que permitiera automatizar y gestionar todas estas funciones. En el documento de requerimientos se especifican distintas funcionalidades y necesidades para cada departamento. Ademas, se especifica una matriz de permisos para cada funcionalidad.
